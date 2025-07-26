@@ -49,7 +49,7 @@ const About = () => {
       
           {/* Resume Button */}
           <a
-            href="/Resume.pdf" // Update with the actual path to your resume
+            href="./Resume.pdf"
             download
             target="_blank"
             rel="noopener noreferrer"
