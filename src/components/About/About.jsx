@@ -41,12 +41,12 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a Diploma Computer Engineer with a strong foundation in front-end and full-stack web development. Completed a
-            Diploma in Computer Engineering from Gyanmanjri Institute of Technology under Gujarat Technological University.
-            Skilled in HTML, CSS, JavaScript, React.js, MERN Stack, Bootstrap, and Tailwind CSS. Recognized for problem-solving
-            abilities, teamwork, and strong communication skills. Eager to contribute technical expertise and a collaborative
-            mindset to a dynamic development team.</p>
-      
+            I am a Diploma Computer Engineer with a strong foundation in front-end and full-stack web development. 
+            I am currently pursuing my Diploma in Computer Engineering from Gyanmanjri Institute of Technology, 
+            under Gujarat Technological University. I am skilled in HTML, CSS, JavaScript, React.js, MERN Stack, 
+            Bootstrap, and Tailwind CSS. Recognized for problem-solving abilities, teamwork, and strong communication 
+            skills, I am eager to contribute technical expertise and a collaborative mindset to a dynamic development team.
+          </p>
           {/* Resume Button */}
           <a
             href="./Resume.pdf"
