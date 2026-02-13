@@ -2,7 +2,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const BlurBlob = ({ position, size }) => {
+const BlurBlob = React.memo(({ position, size }) => {
   // Destructure position and size with default values
   const { top, left } = position
   const { width, height } = size 
@@ -23,7 +23,9 @@ const BlurBlob = ({ position, size }) => {
       ></div>
     </div>
   );
-};
+});
+
+BlurBlob.displayName = "BlurBlob";
 
 // Define prop types
 BlurBlob.propTypes = {

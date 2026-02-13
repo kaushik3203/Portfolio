@@ -110,9 +110,9 @@ export const SkillsInfo = [
         "TypeScript",
         "Node JS",
         "Tailwind CSS",
-        "MongoDb",
+        "MongoDB",
         "Redux",
-        " Next Js",
+        "Next Js",
       ],
     },
     {
@@ -120,7 +120,7 @@ export const SkillsInfo = [
       img: agcLogo,
       role: "Fullstack Intern",
       company: "Aksharraj Infotech",
-      date: "june 2024 - August 2024",
+      date: "June 2024 - August 2024",
       desc: "Contributed to innovative projects as a Fullstack Intern, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, PHP, SQL, Bootstrap, and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
       skills: [
         "ReactJS",
@@ -166,7 +166,7 @@ export const SkillsInfo = [
       school: "Ekta High School, Bhavnagar",
       date: "June 2021 - April 2022",
       grade: "73.84%",
-      desc: "I have completes my 10th grade from Ekta High School, Bhavnagar. During my time at Ekta High School, I developed a strong foundation in various subjects, including Mathematics, Science, and English. I actively participated in extracurricular activities such as sports and cultural events, which helped me develop leadership and teamwork skills. My experience at Ekta High School has been instrumental in shaping my academic journey and preparing me for higher education.",
+      desc: "I completed my 10th grade from Ekta High School, Bhavnagar. During my time at Ekta High School, I developed a strong foundation in various subjects, including Mathematics, Science, and English. I actively participated in extracurricular activities such as sports and cultural events, which helped me develop leadership and teamwork skills. My experience at Ekta High School has been instrumental in shaping my academic journey and preparing me for higher education.",
       degree: "10th Grade - CBSE",
     },
   
