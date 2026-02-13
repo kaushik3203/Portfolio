@@ -156,8 +156,8 @@ export const SkillsInfo = [
       img: glaLogo,
       school: "Gujarat Technological University, Ahmedabad",
       date: "Sept 2022 - July 2025",
-      grade: "7.00 CGPA",
-      desc: "I am currently pursuing my Diploma in Computer Engineering from Gujarat Technological University, Ahmedabad. My coursework includes subjects such as Data Structures, Algorithms, Database Management Systems, and Web Development. I have actively participated in various coding competitions and hackathons, which have enhanced my problem-solving skills and practical knowledge in software development.",
+      grade: "6.88 CGPA",
+      desc: "I have completed my Diploma in Computer Engineering from Gujarat Technological University, Ahmedabad. My coursework includes subjects such as Data Structures, Algorithms, Database Management Systems, and Web Development. I have actively participated in various coding competitions and hackathons, which have enhanced my problem-solving skills and practical knowledge in software development.",
       degree: "Diploma in Computer Engineering - GTU",
     },
     {
